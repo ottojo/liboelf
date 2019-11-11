@@ -13,8 +13,8 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-#define ÖLF 11
+#define OELF 11
 
 void exit(int status) {
-    *((int *) 0) = ÖLF;
+    *((int *) 0) = OELF;
 }
